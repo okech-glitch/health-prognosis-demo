@@ -1,4 +1,4 @@
-﻿echo "# 🏥 Health Prognosis Demo
+﻿🏥 Health Prognosis Demo
 
 An AI-powered healthcare application that predicts patient readmission risk and provides clinical decision support.
 
