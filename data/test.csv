@@ -1,0 +1,21 @@
+age,gender,diagnosis_code,lab_result,medication,length_of_stay,comorbidity_score,patient_id
+28,Male,M54,112,Ibuprofen,1,0,1001
+35,Female,E11,124,Metformin,2,1,1002
+42,Male,I10,138,Amlodipine,3,2,1003
+57,Female,E78,152,Statins,2,2,1004
+63,Male,I25,160,Aspirin,4,3,1005
+71,Female,I50,175,"ACE Inhibitor,Beta Blocker",6,4,1006
+80,Male,N18,182,"Diuretics,ACE Inhibitor",8,5,1007
+46,Female,J44,145,Inhaled Corticosteroids,3,2,1008
+52,Male,E11,136,"Metformin,Statins",2,2,1009
+67,Female,I10,158,"Amlodipine,Diuretics",5,3,1010
+24,Female,M54,108,Paracetamol,1,0,1011
+38,Male,K21,126,Proton Pump Inhibitor,2,1,1012
+59,Female,I25,149,Clopidogrel,4,2,1013
+76,Male,I50,170,"ACE Inhibitor,Loop Diuretic",7,5,1014
+33,Female,E11,118,Metformin,1,1,1015
+48,Male,E78,142,"Statins,Aspirin",3,2,1016
+69,Female,N18,164,Diuretics,5,4,1017
+54,Male,J44,150,"LABA,Inhaled Corticosteroids",4,3,1018
+82,Female,I10,185,"Amlodipine,Thiazide",9,6,1019
+45,Male,M54,120,Ibuprofen,2,1,1020

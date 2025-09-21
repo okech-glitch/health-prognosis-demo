@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App base styling */
+body { @apply text-slate-900 bg-gradient-to-br from-[#f0fdfa] via-[#ecfeff] to-[#f0f9ff] dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 dark:text-slate-100 min-h-screen; }
+
+/* Card helper */
+.card { @apply p-4 bg-white dark:bg-slate-800 rounded shadow; }
