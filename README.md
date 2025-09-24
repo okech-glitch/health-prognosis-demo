@@ -1,6 +1,8 @@
-﻿🏥 Health Prognosis Demo
+﻿## 🏥 Health Prognosis Demo
 
 An AI-powered healthcare application that predicts patient readmission risk and provides clinical decision support.
+
+Live Demo: https://health-prognosis-demo.vercel.app/
 
 ## 🎯 Project Overview
 Health Prognosis Demo helps healthcare providers assess patient readmission risks using machine learning. Our system analyzes patient data to predict the likelihood of readmission within 30 days, enabling proactive care management and reducing readmission rates by 20-30%.
@@ -69,8 +71,7 @@ Health Prognosis Demo helps healthcare providers assess patient readmission risk
    \`\`\`bash
    cd backend
    python -m venv venv
-   .\\venv\\Scripts\\activate  # Windows
-   # source venv/bin/activate  # Mac/Linux
+   .\\venv\\Scripts\\activate  
    pip install -r requirements.txt
    \`\`\`
 
@@ -93,6 +94,7 @@ Health Prognosis Demo helps healthcare providers assess patient readmission risk
      \`\`\"
 
 5. **Access the Application**
+   - Live Demo: https://health-prognosis-demo.vercel.app/
    - Frontend: http://localhost:5175
    - API Docs: http://localhost:8000/docs
 
